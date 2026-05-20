@@ -15,7 +15,7 @@ I used ```.NET version 8.0``` to set up my project
 - You must install mininum ```.NET 8.0``` to run this project
 - Clone this repository by:  
 ```
-git clone https://github.com/Kamil-Kijak/console-solitaire.git
+git clone https://github.com/kkamildev/console-solitaire.git
 ```
 - Enter to cloned repository and run this by:   
 ```
