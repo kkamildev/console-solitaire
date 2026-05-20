@@ -26,5 +26,5 @@ dotnet run
 - Navigate by using ```WSAD``` keys and ```ENTER``` to action  
 - When you want to pick multiple cards, you must click on column and using ```W``` and ```S``` choose the amount of cards
 ## 👦 Authors: 
-- Kamil Kijak ```(solo developer)```
+- Kkamildev ```(solo developer)```
 ## Project protected using MIT license
